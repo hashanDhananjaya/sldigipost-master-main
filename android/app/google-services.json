@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "366502308028",
+    "project_id": "sl-digi-post-user",
+    "storage_bucket": "sl-digi-post-user.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:366502308028:android:e31da69a6e9417b50008b9",
+        "android_client_info": {
+          "package_name": "com.example.sldigipost"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "366502308028-a9ng23abodlu3qdqkiq4j3eajiiriglm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sldigipost",
+            "certificate_hash": "47f5a7efbe5ba0fc146fd8ab004c644d1b45a494"
+          }
+        },
+        {
+          "client_id": "366502308028-iiqhj745jh7fkube76v9l9s71tdq0o0e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWfnhfZKWrl1HrYTYWEZPzi-27cz4ks2o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "366502308028-iiqhj745jh7fkube76v9l9s71tdq0o0e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
